@@ -2,7 +2,7 @@
 <h3 align="center">An AI/ML and Astronomy enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkitgupta456&label=Profile%200views&color=0e75b6&style=flat" alt="pulkitgupta456" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkitgupta456&label=Profile%20views&color=0e75b6&style=flat" alt="pulkitgupta456" /> </p>
 
 - 🌱 I’m currently learning **Pytorch,Keras and Deep Learning**
 
